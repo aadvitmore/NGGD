@@ -1,4 +1,5 @@
-Number Guessing Game Deluxe
+
+# Number Guessing Game Deluxe
 
 
 This is an engaging and interactive project that goes beyond simple static calculations. It creates a dynamic "game loop" that reacts to user input in real-time until a win or loss condition is met.
@@ -54,5 +55,4 @@ o	Hard Mode: Calls playGame(100, 7) (Range 1-100, limit of 7 attempts).
 •	Feedback: Inside the loop, if/else statements compare the guess to the secret number and print "Too High," "Too Low," or a success message.
 •	Game Over Check: It tracks the number of attempts. If maxAttempts is greater than 0 (Hard Mode) AND the user reaches that limit without guessing correctly, it forces the loop to end and reveals the number.
 
-# NGGD
-Number Guessing Game Deluxe
+
