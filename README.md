@@ -12,14 +12,14 @@ Core Features:
 Why it's a good minor project: It demonstrates mastery of essential C constructs like composite loops (do-while nested within do-while), complex conditional logic, and integrating standard libraries (time.h, stdlib.h) for dynamic behaviour.
 
 
+#
+#
+#
+#
 
 
 
-
-
-
-
-How it works?
+#How it works?
 1.	Analyze the Request: The user wants a brief description of how the previously provided "Number Guessing Game Deluxe" code works.
 2.	Identify Key Components of the Code:
 o	Imports: stdio.h (I/O), stdlib.h (rand/srand), time.h (seeding).
